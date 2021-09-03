@@ -6,5 +6,5 @@ Practical Number | Practical Name
 [Practical 2](https://github.com/vk0810-k/Compiler-Design-Practical-Codes/tree/main/Practical%202) | Lexical Analyzer
 [Practical 3](https://github.com/vk0810-k/Compiler-Design-Practical-Codes/tree/main/Practical%203) | Left Reccursion
 [Practical 4](https://github.com/vk0810-k/Compiler-Design-Practical-Codes/tree/main/Practical%204) | Left Factoring
-
+[Practical 5 and 6](https://github.com/vk0810-k/Compiler-Design-Practical-Codes/tree/main/Practical%205%20and%206) | First and Follow
 
